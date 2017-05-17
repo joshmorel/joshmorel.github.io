@@ -1,3 +1,3 @@
 ---
-redirect_to: https://joshmorel.ca 
+redirect_to: https://{yourdomain.com} 
 ---
